@@ -23,7 +23,7 @@
     "bootstrap": "^4.5.0",
     "chart.js": "^2.9.3",
     "firebase": "^7.15.4",
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.10.1",
     "font-awesome": "^4.7.0",
     "ng2-charts": "^2.3.2",
     "promise-polyfill": "8.1.3",
